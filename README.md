@@ -20,10 +20,10 @@ Input: [4,3,2,1]
 Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 ```
-## Key Points :
+# Key Points :
 Lets think about some of the inputs e.g. `[1] , [2], [8], [9], [1, 0], [1, 1], [1, 9], [1, 2, 9], [9, 2, 9], [9, 9, 9]`
 
-### Implementation
+# Implementation
 
 ```java
 import java.util.Arrays;
